@@ -1,7 +1,8 @@
 # Requirement
 WZSwipe Cell requires Xcode 5, targeting iOS 7.0  
 
-![alt text](/Users/Waqar/Desktop/TelMoreScreensSignOff/IMG_2107.PNG "Screen Shot")
+![alt text](../WZSwipeCell/ScreenShot.PNG "Screen Shot")
+
 # Usage
 
 Just drag the Recipe Cell and LeftGesture View to your project.

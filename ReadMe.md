@@ -1,7 +1,7 @@
 # Requirement
 WZSwipe Cell requires Xcode 5, targeting iOS 7.0  
 
-![alt text](../WZSwipeCell/ScreenShot.PNG "Screen Shot")
+![alt text](ScreenShot.PNG "Screen Shot")
 
 # Usage
 

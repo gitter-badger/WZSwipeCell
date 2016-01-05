@@ -1,4 +1,6 @@
 # Requirement
+
+[![Join the chat at https://gitter.im/WaqarZahour/WZSwipeCell](https://badges.gitter.im/WaqarZahour/WZSwipeCell.svg)](https://gitter.im/WaqarZahour/WZSwipeCell?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 WZSwipe Cell requires Xcode 5, targeting iOS 7.0  
 
 ![alt text](ScreenShot.PNG "Screen Shot")
